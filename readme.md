@@ -1,1 +1,1 @@
-Hello Githubi
+Hello Github
